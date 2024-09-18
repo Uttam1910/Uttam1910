@@ -1,6 +1,6 @@
 # Uttam Thapa | Software Developer | Full Stack Developer | AI & ML Enthusiast
 
-[image](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)
+![Profile Banner][image](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)
 (https://uttam-portfolio-snowy.vercel.app/about)
 
 ### Hi, I'm Uttam Thapa 👋
