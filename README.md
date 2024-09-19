@@ -10,12 +10,12 @@ I am a passionate **Software Developer** with a keen interest in **AI/ML** and *
 ---
 
 ### 🚀 Skills & Expertise:
-- **Languages**: C, C++, Python, JavaScript (ES6+), TypeScript
+- **Languages**: C, Python, JavaScript (ES6+), TypeScript
 - **Web Development**: HTML5, CSS3, React, Node.js, Express, MERN Stack, RESTful APIs
 - **Databases**: MongoDB, SQL
 - **Cloud**: Google Cloud Platform (ACE Certified)
 - **AI/ML**: Machine Learning Algorithms, NLP, Image Classification
-- **Tools & Frameworks**: Git, GitHub, Docker, Hadoop, Postman, Jest, PW Skills Certification
+- **Tools & Frameworks**: Git, GitHub, Docker, Hadoop, Postman
 
 ---
 
@@ -39,6 +39,7 @@ I am a passionate **Software Developer** with a keen interest in **AI/ML** and *
 - **Google Cloud Associate Cloud Engineer (ACE)**
 - **Hackathon Participation**
 - **Software Engineer Internship Certification**
+- **Web Developer Internship Certification**
 
 ---
 
