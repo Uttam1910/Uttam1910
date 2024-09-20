@@ -30,6 +30,7 @@ I am a passionate **Software Developer** with a keen interest in **AI/ML** and *
 - **Multimodal Interactive Travel Planner**: AI-powered app integrating image recognition, NLP, and text-to-speech to recommend travel destinations.
 - **Career Guidance Web App**: MERN stack-based platform helping students find suitable colleges, courses, and career paths.
 - **Stellar Portfolio (React)**: A professional portfolio built with React, showcasing my projects and skills.
+- **FilmExplorer (Movie Info App)**:Built a web app to fetch and display movie details from the OMDB API, showcasing images and information dynamically.
 
 ---
 
