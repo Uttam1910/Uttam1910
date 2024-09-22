@@ -50,6 +50,10 @@ I am a passionate **Software Developer** with a keen interest in **AI/ML** and *
 
 ---
 
+### 🎯 Motto:
+
+_"Transforming ideas into innovative software solutions, one line of code at a time."_
+
 ### 🌐 Let's Connect:
 - **LinkedIn**: www.linkedin.com/in/uttam-thapa-1798a925a
 - **Portfolio**: https://uttam-portfolio-snowy.vercel.app/
