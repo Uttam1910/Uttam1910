@@ -1,7 +1,7 @@
 # Uttam Thapa | Software Developer | Full Stack Developer | AI & ML Enthusiast
 
-[image](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)
-(https://uttam-portfolio-snowy.vercel.app/)
+![Profile Banner](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)
+[Check out my Portfolio](https://uttam-portfolio-snowy.vercel.app/)
 
 ### Hi, I'm Uttam Thapa 👋
 
@@ -30,7 +30,7 @@ I am a passionate **Software Developer** with a keen interest in **AI/ML** and *
 - **Multimodal Interactive Travel Planner**: AI-powered app integrating image recognition, NLP, and text-to-speech to recommend travel destinations.
 - **Career Guidance Web App**: MERN stack-based platform helping students find suitable colleges, courses, and career paths.
 - **Stellar Portfolio (React)**: A professional portfolio built with React, showcasing my projects and skills.
-- **FilmExplorer (Movie Info App)**:Built a web app to fetch and display movie details from the OMDB API, showcasing images and information dynamically.
+- **FilmExplorer (Movie Info App)**: Built a web app to fetch and display movie details from the OMDB API, showcasing images and information dynamically.
 
 ---
 
@@ -57,8 +57,8 @@ _"Transforming ideas into innovative software solutions, one line of code at a t
 ---
 
 ### 🌐 Let's Connect:
-- **LinkedIn**: www.linkedin.com/in/uttam-thapa-1798a925a
-- **Portfolio**: https://uttam-portfolio-snowy.vercel.app/
+- **LinkedIn**: [www.linkedin.com/in/uttam-thapa-1798a925a](https://www.linkedin.com/in/uttam-thapa-1798a925a)
+- **Portfolio**: [https://uttam-portfolio-snowy.vercel.app/](https://uttam-portfolio-snowy.vercel.app/)
 - **Email**: uttamt1202@gmail.com
 
 ---
@@ -67,9 +67,8 @@ _"Transforming ideas into innovative software solutions, one line of code at a t
 
 ![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttamt1202&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamt1202&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-"Transforming ideas into innovative software solutions, one line of code at a time."
-
+_"Transforming ideas into innovative software solutions, one line of code at a time."_
