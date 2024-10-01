@@ -65,21 +65,22 @@ _"Transforming ideas into innovative software solutions, one line of code at a t
 
 ### 📊 GitHub Stats:
 
-![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttamt1910&show_icons=true&theme=radical)
+![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam1910&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamt1910&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam1910&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🔥 GitHub Streak Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uttamt1910&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uttam1910&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Profile Trophy:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Uttamt1910&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uttam1910&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
