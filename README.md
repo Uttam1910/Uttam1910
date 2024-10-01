@@ -65,9 +65,9 @@ _"Transforming ideas into innovative software solutions, one line of code at a t
 
 ### 📊 GitHub Stats:
 
-![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttam-thapa&show_icons=true&theme=radical)
+![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttamt1202&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-thapa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
