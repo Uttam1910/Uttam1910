@@ -84,4 +84,4 @@ _"Transforming ideas into innovative software solutions, one line of code at a t
 
 ---
 
-_"Transforming ideas into innovative software solutions, one line of code at a time."_
+_"Transforming ideas into innovative software solutions, one line of code at a time. "_
