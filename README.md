@@ -1,90 +1,136 @@
-# Uttam Thapa | Software Developer | Full Stack Developer | AI & ML Enthusiast
+# 👋 Hi, I'm Uttam Thapa  
+### 💻 Software Developer @ [Growve] | Full Stack Developer | AI & ML Enthusiast  
 
-![Profile Banner](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)
-[Check out my Portfolio](https://uttam-portfolio-snowy.vercel.app/)
-
-### Hi, I'm Uttam Thapa 👋
-
-I am a passionate **Software Developer** with a keen interest in **AI/ML** and **Web Development**. With a strong foundation in computer science and hands-on experience in building scalable, user-friendly web applications, I love working on innovative projects that solve real-world challenges.
+![Banner](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)  
+[🌐 Visit My Portfolio →](https://uttam-portfolio-snowy.vercel.app/)  
 
 ---
 
-### 🚀 Skills & Expertise:
-- **Languages**: C, Python, JavaScript (ES6+), TypeScript
-- **Web Development**: HTML5, CSS3, React, Node.js, Express, MERN Stack, RESTful APIs
-- **Databases**: MongoDB, SQL
-- **Cloud**: Google Cloud Platform (ACE Certified)
-- **AI/ML**: Machine Learning Algorithms, NLP, Image Classification
-- **Tools & Frameworks**: Git, GitHub, Docker, Hadoop, Postman
+## 🚀 About Me  
+I'm a passionate **Software Developer** focused on building scalable web applications and integrating **AI/ML** into real-world use cases.  
+Currently crafting digital solutions at **Growve**, where innovation meets performance.  
+
+> “Transforming ideas into innovative software solutions — one elegant line of code at a time.”
 
 ---
 
-### 💼 Experience:
-- **Web Developer Intern** @ Internpe | *June 2024 - July 2024*
-  - Developed responsive web pages using HTML, CSS, and JavaScript.
-  - Collaborated with design and testing teams to improve the user experience.
+## 🧠 Skills & Tech Stack  
+
+**Languages:**  
+🟦 JavaScript (ES6+), TypeScript, Python, C  
+
+**Frontend:**  
+⚛️ React.js, Next.js, HTML5, CSS3, TailwindCSS  
+
+**Backend:**  
+🟩 Node.js, Express.js, RESTful APIs  
+
+**Databases:**  
+🗄️ MongoDB, PostgreSQL, MySQL  
+
+**AI / ML:**  
+🤖 Machine Learning, NLP, Image Classification, Scikit-learn, TensorFlow  
+
+**DevOps / Cloud:**  
+☁️ Google Cloud (ACE Certified), Docker, GitHub Actions  
+
+**Tools:**  
+🧩 Git, GitHub, Postman, VS Code, Figma  
 
 ---
 
-### 🔥 Current Projects:
-- **Multimodal Interactive Travel Planner**: AI-powered app integrating image recognition, NLP, and text-to-speech to recommend travel destinations.
-- **Career Guidance Web App**: MERN stack-based platform helping students find suitable colleges, courses, and career paths.
-- **Stellar Portfolio (React)**: A professional portfolio built with React, showcasing my projects and skills.
-- **FilmExplorer (Movie Info App)**: Built a web app to fetch and display movie details from the OMDB API, showcasing images and information dynamically.
+## 💼 Experience  
+
+### 🏢 **Software Developer — Growve**  
+📆 *Aug 2024 – Present*  
+🚀 Working on scalable full-stack products with AI/ML integrations, enhancing performance and automating workflows.  
+
+### 💻 **Web Developer Intern — InternPe**  
+📆 *June 2024 – July 2024*  
+- Built responsive web apps using HTML, CSS, and JavaScript.  
+- Collaborated with teams to optimize UI/UX and improve accessibility.  
 
 ---
 
-### 📚 Certifications:
-- **Full Stack Web Developer**
-- **Backend Developer (MERN Stack)**
-- **Google Cloud Associate Cloud Engineer (ACE)**
-- **Hackathon Participation**
-- **Software Engineer Internship Certification**
-- **Web Developer Internship Certification**
+## 🔥 Featured Projects  
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🌍 **AI Travel Planner** | Multimodal app integrating image recognition, NLP & text-to-speech for intelligent trip suggestions. | React, Flask, ML, NLP |
+| 🎯 **Career Guidance Platform** | MERN-based portal helping students find ideal colleges & career paths. | MERN Stack |
+| 💫 **Stellar Portfolio** | My personal responsive portfolio built with React + Framer Motion. | React, Vite, CSS |
+| 🎬 **FilmExplorer App** | Movie info app fetching real-time data from OMDB API. | React, API, JS |
+
+🔗 [Explore My Projects →](https://uttam-portfolio-snowy.vercel.app/#projects)
 
 ---
 
-### 🌱 Currently Learning:
-- Advanced AI/ML techniques (Natural Language Processing, Deep Learning).
-- Expanding my knowledge in full-stack development, focusing on React and Node.js optimizations.
+## 🎓 Certifications  
+
+- 🧩 **Full Stack Web Developer**  
+- ⚙️ **Backend Developer (MERN Stack)**  
+- ☁️ **Google Cloud Associate Cloud Engineer (ACE)**  
+- 💼 **Software Engineer Internship Certification**  
+- 🏅 **Hackathon Participant**
 
 ---
 
-### 🎯 Motto:
-
-_"Transforming ideas into innovative software solutions, one line of code at a time."_
-
----
-
-### 🌐 Let's Connect:
-- **LinkedIn**: [www.linkedin.com/in/uttam-thapa-1798a925a](https://www.linkedin.com/in/uttam-thapa-1798a925a)
-- **Portfolio**: [https://uttam-portfolio-snowy.vercel.app/](https://uttam-portfolio-snowy.vercel.app/)
-- **Email**: uttamt1202@gmail.com
+## 🌱 Currently Learning  
+- Advanced **Deep Learning** (Transformers, LLMs, Computer Vision)  
+- **System Design** & scalable backend patterns  
+- **Next.js 15** and **TypeScript optimization**  
 
 ---
 
-### 📊 GitHub Stats:
+## 🧩 Tech Badges  
 
-![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam1910&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam1910&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🔥 GitHub Streak Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uttam1910&theme=radical)](https://git.io/streak-stats)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🏆 GitHub Profile Trophy:
+## 📈 GitHub Analytics  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Uttam1910&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=Uttam1910&label=Profile%20Views&color=blue&style=flat)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uttam1910&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam1910&layout=compact&theme=radical&hide_border=true" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttam1910&theme=radical&hide_border=true" height="165px"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uttam1910&theme=react-dark)
 
 ---
 
-_"Transforming ideas into innovative software solutions, one line of code at a time. "_
+## 🏆 Achievements  
 
-"Empowering the digital world through seamless integration of cutting-edge technologies and creative problem-solving. Turning ideas into impactful, scalable solutions—one elegant line of code at a time."
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uttam1910&theme=onedark&margin-w=10&margin-h=10" />
+</p>
 
+---
+
+## 🌐 Let's Connect  
+
+📫 **Email:** [uttamt1202@gmail.com](mailto:uttamt1202@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/uttam-thapa-1798a925a](https://www.linkedin.com/in/uttam-thapa-1798a925a)  
+🧠 **Portfolio:** [uttam-portfolio-snowy.vercel.app](https://uttam-portfolio-snowy.vercel.app/)  
+
+---
+
+### 💬 Quote to Code By  
+
+> “Empowering the digital world through seamless integration of cutting-edge technologies and creative problem-solving.”
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
