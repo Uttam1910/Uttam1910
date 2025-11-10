@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Uttam Thapa  
 ### 💻 Software Developer @ [Growve] | Full Stack Developer | AI & ML Enthusiast  
 
-![Banner](https://github.com/user-attachments/assets/45e88fd2-dd4e-4030-9b2f-1391e0b25cf8)  
+![Banner]<img width="1874" height="853" alt="image" src="https://github.com/user-attachments/assets/5d44deb5-3f83-4dca-9d74-780b7879be4e" />
+  
 [🌐 Visit My Portfolio →](https://uttam-portfolio-snowy.vercel.app/)  
 
 ---
@@ -42,7 +43,7 @@ Currently crafting digital solutions at **Growve**, where innovation meets perfo
 ## 💼 Experience  
 
 ### 🏢 **Software Developer — Growve**  
-📆 *Aug 2024 – Present*  
+📆 *Sept 2025 – Present*  
 🚀 Working on scalable full-stack products with AI/ML integrations, enhancing performance and automating workflows.  
 
 ### 💻 **Web Developer Intern — InternPe**  
