@@ -2,175 +2,186 @@
 
 ### Software Developer @ Growve · Full-Stack Engineer · AI/ML Enthusiast
 
-<!-- Hero CTAs -->
-<p>
+<p align="left">
   <a href="https://portfolio.uttamthapa.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0ea5e9?style=flat-square&logo=about-dot-me&logoColor=white" />
+    <img alt="Primary Portfolio - Uttam Thapa" src="https://img.shields.io/badge/Primary%20Portfolio-View%20Portfolio-0ea5e9?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
   <a href="https://uttamthapa.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-uttamthapa.com-111827?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img alt="Parent Website - Uttam Thapa" src="https://img.shields.io/badge/Parent%20Website-uttamthapa.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/uttam-thapa-1798a925a" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn profile for Uttam Thapa" src="https://img.shields.io/badge/LinkedIn-Uttam%20Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:uttamt1202@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-uttamt1202@gmail.com-6b7280?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email for Uttam Thapa" src="https://img.shields.io/badge/Email-uttamt1202@gmail.com-6b7280?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Banner -->
-<picture>
-  <source media="(max-width: 600px)" srcset="https://github.com/user-attachments/assets/5d44deb5-3f83-4dca-9d74-780b7879be4e" />
-  <img src="https://github.com/user-attachments/assets/5d44deb5-3f83-4dca-9d74-780b7879be4e" alt="Banner" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d44deb5-3f83-4dca-9d74-780b7879be4e" alt="Professional banner featuring Uttam Thapa" width="100%" />
+</p>
+
+<p align="left">
+  <img alt="Available for Full-Stack & AI Engineering roles" src="https://img.shields.io/badge/Available%20for-Full--Stack%20%26%20AI%20Engineering%20roles-22c55e?style=flat-square&logo=rocket&logoColor=white" />
+</p>
 
 ---
 
 ## About
 
-I am a Software Developer at Growve who designs and ships production-ready full-stack applications, scalable backend systems, and AI/ML-powered features. I work across the stack — from frontend interfaces to backend services and cloud deployments — focusing on reliability, performance, and practical impact.
+I build production-ready software across the full stack, with a strong focus on backend systems, cloud deployment, integrations, and AI-powered product experiences. My work spans frontend interfaces, scalable APIs, data-heavy workflows, and deployment-ready systems designed for reliability, performance, and maintainability.
 
-I follow a product-driven engineering approach:
+I approach engineering with a product mindset:
 
 Concept → Architecture → Development → Integration → Deployment → Optimization
 
-Key focus areas:
+My work sits at the intersection of:
 
-- 💻 Full-Stack Development
+- 💻 Full-stack product development
 - 🤖 AI / Machine Learning
-- 🏗️ Scalable Backend Architecture
-- 🔌 API & Third-Party Integrations
-- ☁️ Cloud & DevOps
-- ⚡ Performance & Automation
-- 🚀 SaaS & Product Development
+- 🏗️ Scalable backend architecture
+- 🔌 API and third-party integrations
+- ☁️ Cloud deployment and DevOps workflows
+- 🚀 SaaS and e-commerce systems
+- ⚡ Performance, observability, and reliability
 
-"Building software that solves real problems — not just demos that look good."
+I care about building systems that solve real operational problems, not just demos or isolated features.
 
 ---
 
-## 🌐 My Digital Presence
+## 🌐 Digital Presence
+
+<div align="left">
 
 ### 🏠 Parent Website
-This is my central web presence and the canonical place for personal and contact information.
+<a href="https://uttamthapa.com" target="_blank" rel="noopener noreferrer">https://uttamthapa.com</a>
 
-• https://uttamthapa.com
+Central personal web presence and contact reference.
 
-### 💼 Primary Portfolio (Recruiter CTA)
-My professional portfolio showcasing selected projects, technical details, and contact information. Recruiters: please use this as the primary reference.
+### 💼 Primary Portfolio
+<a href="https://portfolio.uttamthapa.com" target="_blank" rel="noopener noreferrer">https://portfolio.uttamthapa.com</a>
 
-• https://portfolio.uttamthapa.com
+Professional portfolio and recruiter-focused reference for selected work, projects, and technical depth.
+
+</div>
 
 ---
 
 ## 🧠 Technical Stack
 
-I prefer pragmatic, well-supported tools and focus on building reliable systems. Selected technologies I use most frequently:
+### Frontend
 
-Frontend
-- React, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Vite
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" alt="Frontend technologies: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, and Vite" />
 
-Backend
-- Node.js, Express.js, Python, Flask
+### Backend
 
-Databases
-- PostgreSQL, MongoDB, MySQL, Prisma
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend technologies: Node.js, Express.js, Python, and Flask" />
 
-AI / ML
-- Python, TensorFlow, scikit-learn, NLP, Computer Vision, Image Classification
+### Databases
 
-Cloud & DevOps
-- Google Cloud, Docker, GitHub Actions
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma" alt="Database technologies: PostgreSQL, MongoDB, MySQL, and Prisma" />
 
-Tools
-- Git, GitHub, Postman, VS Code, Figma
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="AI and machine learning technologies: Python, TensorFlow, and scikit-learn" />
+
+### Cloud / DevOps
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions" alt="Cloud and DevOps technologies: Google Cloud, Docker, and GitHub Actions" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Developer tools: Git, GitHub, Postman, VS Code, and Figma" />
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Software Developer — Growve
+### Software Developer — Growve
 *September 2025 – Present*
 
-Working on full-stack products with an emphasis on backend services, APIs, integrations, and deploying reliable cloud-hosted systems. Responsibilities include:
+I work on production-grade full-stack products with a focus on backend systems, REST APIs, integrations, automation, and cloud-hosted deployments. My responsibilities include building and improving core product experiences while prioritizing performance, reliability, and maintainability.
 
-- Designing and implementing REST APIs and backend services.
-- Building and maintaining frontend user experiences.
-- Integrating third-party services and payment providers.
-- Improving performance, reliability, and observability.
-- Deploying and operating applications in cloud environments.
+- Full-stack development across frontend and backend layers
+- Design and implementation of REST APIs and backend services
+- Third-party integrations and payment integrations
+- Database-backed system design and optimization
+- Automation, reliability improvements, and deployment workflows
+- Cloud-based application delivery and operational stability
 
-> Focus: production readiness, scalability, and measurable impact.
-
-### 💻 Web Developer Intern — InternPe
+### Web Developer Intern — InternPe
 *June 2024 – July 2024*
 
-- Built responsive web applications using HTML, CSS, and JavaScript.
-- Improved UI/UX and accessibility across interfaces.
-- Collaborated with product and design teams to deliver features.
+- Built responsive web applications using HTML, CSS, and JavaScript
+- Improved interface quality and user experience across products
+- Collaborated with design and product stakeholders for feature delivery
 
 ---
 
 ## 🔥 Featured Projects
 
-I surface a small set of representative projects on my portfolio. For full details, visit the portfolio linked above.
+A sample of projects that reflect the type of systems I build.
 
-1. 🌍 AI Travel Planner
-   - Description: Multimodal application combining image recognition, NLP, and text-to-speech to generate intelligent travel recommendations.
-   - Tech: React, Flask, Python, Machine Learning, NLP
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🌍 AI Travel Planner | Multimodal travel assistant combining image recognition, NLP, and text-to-speech for smarter recommendations. | React, Flask, Python, Machine Learning, NLP |
+| 🛍️ InstaShop | Multi-tenant SaaS platform for Instagram sellers to manage products, orders, and e-commerce workflows. | React, Node.js, Express, PostgreSQL, Prisma, Razorpay |
+| 🎯 Career Guidance Platform | Portal for students to discover colleges and career pathways with a structured digital experience. | MongoDB, Express.js, React, Node.js |
+| 💫 Stellar Portfolio | Responsive personal portfolio focused on projects, experience, and front-end storytelling. | React, Vite, TypeScript, TailwindCSS, Framer Motion |
+| 🎬 FilmExplorer | Movie discovery app that surfaces relevant information through real-time API-driven searching. | React, JavaScript, REST API |
 
-2. 🛍️ InstaShop
-   - Description: SaaS platform for Instagram sellers — a multi-tenant e-commerce platform to manage products, process orders, and grow online sales.
-   - Tech: React, Node.js, Express, PostgreSQL, Prisma, Razorpay
-
-3. 🎯 Career Guidance Platform
-   - Description: MERN-based portal to help students explore colleges and career opportunities.
-   - Tech: MongoDB, Express.js, React, Node.js
-
-4. 💫 Stellar Portfolio
-   - Description: Responsive personal portfolio showcasing projects, experience, and technical work.
-   - Tech: React, Vite, TypeScript, TailwindCSS, Framer Motion
-
-5. 🎬 FilmExplorer
-   - Description: Movie discovery web app that consumes real-time data from the OMDb API.
-   - Tech: React, JavaScript, REST API
-
-[Explore My Portfolio →](https://portfolio.uttamthapa.com)
+<p align="left">
+  <a href="https://portfolio.uttamthapa.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Explore My Portfolio" src="https://img.shields.io/badge/Explore%20My%20Portfolio-Portfolio%20%26%20Projects-0ea5e9?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🏗️ What I Build
 
+<div align="left">
+
 - 🤖 AI-powered applications
-- 🧠 Machine learning & computer vision
-- 🏢 SaaS platforms and multi-tenant systems
+- 🧠 Machine learning and computer vision systems
+- 🏢 SaaS platforms and multi-tenant products
 - ⚡ High-performance web applications
 - 🔌 API and payment integrations
-- 🗄️ Scalable backend architectures
+- 🗄️ Scalable backend systems
 - ☁️ Cloud-native applications and deployments
 - 🔄 Automation and workflow systems
-- 🛒 E-commerce platforms
+- 🛒 E-commerce experiences
 - 📊 Data-driven products
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Deep Learning (Transformers, LLMs, Computer Vision)
-- System Design: distributed systems and scalable backend patterns
-- Multi-tenant architecture and SaaS patterns
-- Modern Web Engineering: TypeScript, Next.js, performance optimization
+- Transformers
+- LLMs
+- Computer Vision
+- AI application architecture
+- System Design
+- Distributed systems
+- Scalable backend architecture
+- Multi-tenant architecture
+- TypeScript
+- Next.js
+- Performance optimization
 
 ---
 
 ## ⚙️ Engineering Philosophy
 
-Understand the problem. Design the system. Build the solution. Ship it. Improve it.
+### Understand the problem. Design the system. Build the solution. Ship it. Improve it.
 
-Good software is reliable, observable, and evolves with measurable improvements.
+Strong engineering is grounded in reliability, maintainability, observability, scalability, and continuous improvement. The goal is not just to ship quickly, but to build systems that remain solid as they grow and create measurable product impact.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
 - Google Cloud Associate Cloud Engineer (ACE)
 - Full Stack Web Developer
@@ -180,34 +191,41 @@ Good software is reliable, observable, and evolves with measurable improvements.
 
 ---
 
-## 📈 GitHub & Activity
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uttam1910&label=Profile%20Views&color=111827&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Uttam1910&label=Profile%20Views&color=111827&style=flat-square" alt="Profile views for Uttam1910" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uttam1910&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="150px" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam1910&layout=compact&hide_border=true&theme=transparent" height="150px" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uttam1910&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics for Uttam1910" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam1910&layout=compact&hide_border=true&theme=transparent" alt="Top languages for Uttam1910" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttam1910&hide_border=true&theme=transparent" height="120px" alt="Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uttam1910&theme=github-compact&hide_border=true" height="120px" alt="Activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttam1910&hide_border=true&theme=transparent" alt="GitHub streak stats for Uttam1910" height="120" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uttam1910&theme=github-compact&hide_border=true" alt="Contribution activity graph for Uttam1910" height="120" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I’m open to conversations about engineering roles, AI/ML work, SaaS, startups, system design, and interesting technical problems.
+<p align="left">
+  <a href="https://portfolio.uttamthapa.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Primary Portfolio" src="https://img.shields.io/badge/Portfolio-portfolio.uttamthapa.com-0ea5e9?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+  <a href="https://uttamthapa.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Parent Website" src="https://img.shields.io/badge/Website-uttamthapa.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/uttam-thapa-1798a925a" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Uttam%20Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:uttamt1202@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-uttamt1202@gmail.com-6b7280?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- Portfolio: https://portfolio.uttamthapa.com
-- Website: https://uttamthapa.com
-- LinkedIn: https://www.linkedin.com/in/uttam-thapa-1798a925a
-- Email: mailto:uttamt1202@gmail.com
-
----
-
-<p align="center">Thanks for visiting my profile! ⭐</p>
-<p align="center">Building ideas into reliable software, one system at a time.</p>
+<p align="center">
+  <i>Building reliable software, one system at a time.</i>
+</p>
