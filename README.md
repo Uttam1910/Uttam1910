@@ -100,21 +100,31 @@ Professional portfolio and recruiter-focused reference for selected work, projec
 ### Software Developer — Growve
 *September 2025 – Present*
 
-I work on production-grade full-stack products with a focus on backend systems, REST APIs, integrations, automation, and cloud-hosted deployments. My responsibilities include building and improving core product experiences while prioritizing performance, reliability, and maintainability.
+Full-Stack Software Developer working across frontend and backend systems for commerce and logistics platforms. I build production features, APIs, integrations, background workers, and multi-tenant systems across the application stack.
 
-- Full-stack development across frontend and backend layers
-- Design and implementation of REST APIs and backend services
-- Third-party integrations and payment integrations
-- Database-backed system design and optimization
-- Automation, reliability improvements, and deployment workflows
-- Cloud-based application delivery and operational stability
+Key responsibilities:
 
-### Web Developer Intern — InternPe
-*June 2024 – July 2024*
+- Develop full-stack features using React, TypeScript, Node.js and Express.
+- Design and maintain backend APIs and business logic.
+- Work with multi-schema / multi-tenant architecture.
+- Build webhook APIs and third-party integrations.
+- Integrate courier and logistics platforms, including Blue Dart and other delivery partners.
+- Develop worker schedulers, queues and asynchronous processing workflows.
+- Work with PostgreSQL and Prisma for data modelling and persistence.
+- Work with Docker and Microsoft Azure for application infrastructure and deployment.
+- Debug and improve production systems across frontend, backend and integrations.
+- Contribute to architecture, implementation, deployment and ongoing maintenance.
 
-- Built responsive web applications using HTML, CSS, and JavaScript
-- Improved interface quality and user experience across products
-- Collaborated with design and product stakeholders for feature delivery
+### Product Experience — SGoldenLeaf Knots & VelvetLoop
+*Live commerce platforms for handmade business users on Instagram*
+
+Built and improved live e-commerce web experiences for handmade and boutique businesses, focused on Instagram-driven sales workflows, user onboarding, catalog management, and order operations. Worked across product UI, commerce logic, backend services, and third-party integrations to support scalable digital storefront experiences for sellers.
+
+- Built storefront and seller-facing web experiences for handmade business users
+- Designed and implemented product, order, and catalog workflows
+- Worked across frontend and backend systems for end-to-end commerce functionality
+- Integrated platform services and external business operations to support live usage
+- Supported multi-user commerce experiences with maintainable architecture and deployment workflows
 
 ---
 
@@ -125,7 +135,8 @@ A sample of projects that reflect the type of systems I build.
 | Project | Description | Stack |
 | --- | --- | --- |
 | 🌍 AI Travel Planner | Multimodal travel assistant combining image recognition, NLP, and text-to-speech for smarter recommendations. | React, Flask, Python, Machine Learning, NLP |
-| 🛍️ InstaShop | Multi-tenant SaaS platform for Instagram sellers to manage products, orders, and e-commerce workflows. | React, Node.js, Express, PostgreSQL, Prisma, Razorpay |
+| 🛍️ SGoldenLeaf Knots | Live commerce website for handmade product sellers, focused on storefront experience and social-commerce workflows. | React, Node.js, Express, PostgreSQL, Prisma |
+| 🧵 VelvetLoop | E-commerce web experience for boutique handmade business users, built to support branded product discovery and sales operations. | React, TypeScript, Node.js, Express, PostgreSQL |
 | 🎯 Career Guidance Platform | Portal for students to discover colleges and career pathways with a structured digital experience. | MongoDB, Express.js, React, Node.js |
 | 💫 Stellar Portfolio | Responsive personal portfolio focused on projects, experience, and front-end storytelling. | React, Vite, TypeScript, TailwindCSS, Framer Motion |
 | 🎬 FilmExplorer | Movie discovery app that surfaces relevant information through real-time API-driven searching. | React, JavaScript, REST API |
