@@ -115,7 +115,7 @@ Key responsibilities:
 - Debug and improve production systems across frontend, backend and integrations.
 - Contribute to architecture, implementation, deployment and ongoing maintenance.
 
-### Product Experience — SGoldenLeaf Knots & VelvetLoop
+### Product Experience — GoldenLeaf Knots & VelvetLoop
 *Live commerce platforms for handmade business users on Instagram*
 
 Built and improved live e-commerce web experiences for handmade and boutique businesses, focused on Instagram-driven sales workflows, user onboarding, catalog management, and order operations. Worked across product UI, commerce logic, backend services, and third-party integrations to support scalable digital storefront experiences for sellers.
@@ -135,7 +135,7 @@ A sample of projects that reflect the type of systems I build.
 | Project | Description | Stack |
 | --- | --- | --- |
 | 🌍 AI Travel Planner | Multimodal travel assistant combining image recognition, NLP, and text-to-speech for smarter recommendations. | React, Flask, Python, Machine Learning, NLP |
-| 🛍️ SGoldenLeaf Knots | Live commerce website for handmade product sellers, focused on storefront experience and social-commerce workflows. | React, Node.js, Express, PostgreSQL, Prisma |
+| 🛍️ GoldenLeaf Knots | Live commerce website for handmade product sellers, focused on storefront experience and social-commerce workflows. | React, Node.js, Express, PostgreSQL, Prisma |
 | 🧵 VelvetLoop | E-commerce web experience for boutique handmade business users, built to support branded product discovery and sales operations. | React, TypeScript, Node.js, Express, PostgreSQL |
 | 🎯 Career Guidance Platform | Portal for students to discover colleges and career pathways with a structured digital experience. | MongoDB, Express.js, React, Node.js |
 | 💫 Stellar Portfolio | Responsive personal portfolio focused on projects, experience, and front-end storytelling. | React, Vite, TypeScript, TailwindCSS, Framer Motion |
