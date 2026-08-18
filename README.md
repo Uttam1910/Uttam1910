@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d44deb5-3f83-4dca-9d74-780b7879be4e" alt="Professional banner featuring Uttam Thapa" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f2c9f028-16c6-4266-adb0-8825efd7649c" alt="Professional software engineer banner for Uttam Thapa" width="100%" />
 </p>
 
 <p align="left">
